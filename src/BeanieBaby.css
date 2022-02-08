@@ -1,0 +1,12 @@
+img {
+  width: 100px;
+}
+
+.baby {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid blue;
+  width: 230px;
+  height: 150px;
+  margin: 5px;
+}
